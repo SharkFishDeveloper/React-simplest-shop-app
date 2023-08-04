@@ -1,0 +1,64 @@
+
+.contact{
+    height: 100vh;
+    width:100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(166, 148, 184);
+    padding: 200px;
+}
+.contact main h1{
+    font-size: 3rem;
+}
+.contact main{
+    padding: 5rem;
+    height: 40rem;
+    width: 70%;
+    background-color: rgb(102, 97, 196);
+    border-radius: 15%;
+
+}
+.contact button{
+    margin-top: 2rem;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(57, 50, 186);
+    border-radius: 12px;
+    color: white;
+    outline: none;
+    margin-top: 70px;
+}
+.contact button:hover{
+    background-color: rgb(75, 70, 169);
+}
+.contact form{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto 200px;
+    margin-left: 180px;
+}
+.contact main div{
+    height: 3 rem;
+    display: flex;
+    align-items: center;
+    width: 60%;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.contact main div label{
+    width: 40px;
+    font-size: 1.3rem;
+    margin-right: 4rem;
+    
+}
+.contact main div input{
+    width: 600px;
+    padding: 1rem;
+   
+    outline: none;
+}

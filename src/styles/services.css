@@ -1,0 +1,19 @@
+.services p{
+    font-size: 1.2rem;
+    /* margin-top: 20px; */
+
+}
+.services{
+    padding-bottom: 50px;
+}
+.services div{
+    margin-bottom: 50px;
+    background-color: rgb(218, 207, 229);
+    
+    
+}
+.services div p{
+    position:absolute;
+    bottom: 23px;
+    left: 45vw;
+}
